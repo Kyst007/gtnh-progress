@@ -42592,23 +42592,16 @@
 			"tasks:9": {
 				"0:10": {
 					"index:3": 0,
-					"completeUsers:9": {
-						"0:8": "00000000-0000-0000-0000-000000000000"
-					},
+					"completeUsers:9": {},
 					"taskID:8": "bq_standard:hunt",
-					"userProgress:9": {
-						"0:10": {
-							"uuid:8": "00000000-0000-0000-0000-000000000000",
-							"value:3": 1
-						}
-					}
+					"userProgress:9": {}
 				}
 			},
 			"questIDLow:4": 916,
 			"completed:9": {
 				"0:10": {
-					"timestamp:4": 1794250318319,
-					"claimed:1": 1,
+					"claimed:1": 0,
+					"timestamp:4": 0,
 					"uuid:8": "00000000-0000-0000-0000-000000000000"
 				}
 			},
